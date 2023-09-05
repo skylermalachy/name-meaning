@@ -37,6 +37,11 @@ check.addEventListener("click", () => {
         "A strong and powerful breed of its kind",
         "God will always fight your battle",
         "My help has come!",
+        "someone that loves to eat food",
+        "someone that loves kids",
+        "someone that likes money too much",
+        "A person that gets emotional easily",
+        "someone that finds it hard to forgive when offended",
       ];
       let result = `
       

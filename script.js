@@ -67,7 +67,7 @@ check.addEventListener("click", () => {
 
 
 
-      https://skylermalachy.github.io/Personality-check/  `;
+      https://skylermalachy.github.io/name-meaning/ `;
 
       const whatsappApiUrl = `https://wa.me/?text=${result}`;
 

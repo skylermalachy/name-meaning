@@ -28,7 +28,7 @@ check.addEventListener("click", () => {
     inputDisplay.style.color = "red";
     message.textContent = `please share this on your whatsapp status to see the meaning of ${input.value.toUpperCase()}`;
     shareBtn.addEventListener("click", function () {
-      const randNum1 = Math.trunc(Math.random() * 6 + 1);
+      const randNum1 = Math.trunc(Math.random() * 11 + 1);
       let message = [
         "",
         " that you are destined for greatness",

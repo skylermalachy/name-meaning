@@ -17,7 +17,7 @@ check.addEventListener("click", () => {
       shareBtn.style.height = "40px";
     }, 500);
     setInterval(() => {
-      shareBtn.style.width = "400px";
+      shareBtn.style.width = "370px";
       shareBtn.style.height = "35px";
     }, 1000);
     section.style.opacity = 100;

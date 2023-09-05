@@ -18,6 +18,7 @@ check.addEventListener("click", () => {
     }, 500);
     setInterval(() => {
       shareBtn.style.width = "400px";
+      shareBtn.style.height = "35px";
     }, 1000);
     section.style.opacity = 100;
     input.style.opacity = 0;
